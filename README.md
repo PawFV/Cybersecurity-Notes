@@ -1,6 +1,7 @@
 # Notas de estudio de Ciberseguridad - Red Team & Pentesting
 
-Vault de Obsidian con apuntes de estudio sobre ciberseguridad, enfocado en Red Teaming y Pentesting.
+Vault de Obsidian con apuntes de estudio propio sobre ciberseguridad, enfocado en Red Teaming y Pentesting.
+Compartido para comunidad hispanohablante. 
 
 ## Fuentes
 
