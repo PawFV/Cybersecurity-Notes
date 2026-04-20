@@ -17,7 +17,7 @@ related:
 
 ## System
 
-```cmd
+```powershell
 systeminfo                               :: OS, version, build, hotfixes, NICs
 wmic qfe get Caption,Description         :: Patches instalados detallados
 net start                                :: Servicios corriendo

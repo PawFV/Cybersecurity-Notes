@@ -1,11 +1,15 @@
 ---
-tags: [red-team, enumeration, post-exploitation, fundamentals]
+tags:
+  - red-team
+  - enumeration
+  - post-exploitation
+  - fundamentals
 created: 2026-04-19
 source: TryHackMe - Enumeration
 related:
-  - "[[Enum - Linux built-in tools]]"
-  - "[[Enum - Windows built-in tools]]"
-  - "[[Enum - DNS SMB SNMP]]"
+  - "[[DNS, SMB, SNMP]]"
+  - "[[Windows built-in tools]]"
+  - "[[Linux built-in tools]]"
 ---
 
 > [!abstract] TL;DR

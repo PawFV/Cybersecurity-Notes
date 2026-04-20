@@ -19,13 +19,13 @@ related:
 
 Paquete de utilidades CLI + GUI firmadas por Microsoft → **trust alto, LOLBAS friendly**.
 
-| Utility | Función |
-|---|---|
-| **Process Explorer** | Procesos + archivos abiertos + registry keys |
-| **Process Monitor** | Monitoreo real-time de FS, procesos, registry |
-| **PsList** | Info de procesos |
-| **PsLoggedOn** | Users logueados (local + remoto) |
-| **PsExec** | Ejecución remota (clásico lateral movement) |
+| Utility              | Función                                       |
+| -------------------- | --------------------------------------------- |
+| **Process Explorer** | Procesos + archivos abiertos + registry keys  |
+| **Process Monitor**  | Monitoreo real-time de FS, procesos, registry |
+| **PsList**           | Info de procesos                              |
+| **PsLoggedOn**       | Users logueados (local + remoto)              |
+| **PsExec**           | Ejecución remota (clásico lateral movement)   |
 
 > [!tip]
 > Muchas herramientas Sysinternals están **whitelisted** en entornos corporativos porque son de Microsoft. Úsalas en tu favor.
