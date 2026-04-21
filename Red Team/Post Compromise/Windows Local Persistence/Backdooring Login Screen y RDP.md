@@ -6,7 +6,6 @@ related:
   - "[[Logon Triggered Persistence]]"
   - "[[Tampering With Unprivileged Accounts]]"
 ---
-
 Técnicas para obtener acceso a una terminal desde la pantalla de login, sin necesidad de credenciales válidas. Requieren acceso físico o RDP.
 
 ---

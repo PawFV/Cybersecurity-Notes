@@ -6,18 +6,17 @@ related:
   - "[[Tampering With Unprivileged Accounts]]"
   - "[[Persisting Through Existing Services]]"
 ---
-
 La persistencia es el arte de plantar backdoors en un sistema sin ser detectado el mayor tiempo posible. En este room se cubrieron los metodos principales sobre componentes de Windows:
 
-| Tecnica | Componente |
-|---------|-----------|
-| Tampering With Unprivileged Accounts | Grupos, privilegios, RID hijacking |
-| Backdooring Files | Ejecutables, shortcuts, file associations |
-| Abusing Services | Crear/modificar servicios de Windows |
-| Scheduled Tasks | Task Scheduler + ocultar con SD |
-| Logon Triggered | Startup folder, Run/RunOnce, Winlogon, logon scripts |
-| Login Screen | Sticky Keys, Utilman |
-| Existing Services | Web shells, MSSQL triggers |
+| Tecnica                              | Componente                                           |
+| ------------------------------------ | ---------------------------------------------------- |
+| Tampering With Unprivileged Accounts | Grupos, privilegios, RID hijacking                   |
+| Backdooring Files                    | Ejecutables, shortcuts, file associations            |
+| Abusing Services                     | Crear/modificar servicios de Windows                 |
+| Scheduled Tasks                      | Task Scheduler + ocultar con SD                      |
+| Logon Triggered                      | Startup folder, Run/RunOnce, Winlogon, logon scripts |
+| Login Screen                         | Sticky Keys, Utilman                                 |
+| Existing Services                    | Web shells, MSSQL triggers                           |
 
 ---
 

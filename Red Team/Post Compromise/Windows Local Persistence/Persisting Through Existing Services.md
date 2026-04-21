@@ -6,7 +6,6 @@ related:
   - "[[Abusing Services]]"
   - "[[Backdooring Files]]"
 ---
-
 Aprovechar servicios ya instalados (web server, base de datos) para ejecutar codigo y mantener acceso.
 
 ---
