@@ -9,11 +9,9 @@ related:
   - "[[Abusing User Behaviour]]"
   - "[[Port Forwarding]]"
 ---
-
 Una vez obtenido el primer acceso a la red, rara vez el objetivo final está en la máquina comprometida inicial. El **Lateral Movement** es el conjunto de técnicas que permite moverse a través de la red comprometiendo otros hosts hasta alcanzar el objetivo (usualmente el **Domain Controller** o servidores críticos).
 
 ---
-
 ## Conceptos clave
 
 ### Lateral Movement

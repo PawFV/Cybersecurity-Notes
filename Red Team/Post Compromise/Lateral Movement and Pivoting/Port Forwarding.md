@@ -6,7 +6,7 @@ related:
   - "[[Moving Through the Network]]"
   - "[[Use of Alternate Authentication Material]]"
 ---
-Cuando desde nuestro host atacante no tenemos visibilidad directa a una red interna, usamos un **host comprometido como pivote** para enrutar tráfico hacia servicios internos. Esto se logra con **port forwarding** y **túneles**.
+	Cuando desde nuestro host atacante no tenemos visibilidad directa a una red interna, usamos un **host comprometido como pivote** para enrutar tráfico hacia servicios internos. Esto se logra con **port forwarding** y **túneles**.
 
 ---
 

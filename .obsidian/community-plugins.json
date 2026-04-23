@@ -6,5 +6,7 @@
   "templater-obsidian",
   "copilot",
   "smart-context",
-  "obsidian-git"
+  "obsidian-git",
+  "mehrmaid",
+  "mermaid-tools"
 ]

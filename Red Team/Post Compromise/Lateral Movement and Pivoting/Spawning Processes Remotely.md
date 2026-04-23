@@ -6,7 +6,6 @@ related:
   - "[[Moving Through the Network]]"
   - "[[Moving Laterally Using WMI]]"
 ---
-
 Ejecutar procesos en hosts remotos es una de las formas más directas de moverse lateralmente. Todas estas técnicas requieren credenciales de un usuario con permisos administrativos en la máquina destino.
 
 ---
@@ -16,13 +15,14 @@ Ejecutar procesos en hosts remotos es una de las formas más directas de moverse
 `PsExec` se conecta al share `ADMIN$` vía SMB, sube un servicio temporal (`PSEXESVC`) y lo ejecuta como **SYSTEM**.
 
 ```shell
-PsExec64.exe -i \\THMIIS.za.tryhackme.com cmd.exe
+PsExec64.exe -i \\za.host.com cmd.exe
 ```
 
 Con credenciales explícitas:
 
 ```shell
-PsExec64.exe -i -u za.tryhackme.com\t1_leonard.summers -p Password01! \\THMIIS.za.tryhackme.com cmd.exe
+PsExec64.exe -i -u za.host.com\t1_leonard.summers -p Password01! 
+\\za.host.com cmd.exe
 ```
 
 > [!info] El flag `-i` permite interacción con el escritorio. `-s` fuerza ejecución como SYSTEM.
