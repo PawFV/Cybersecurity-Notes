@@ -5,8 +5,8 @@ Compartido para comunidad hispanohablante.
 
 ## Fuentes
 
-- [TryHackMe](https://tryhackme.com)
-- HackTheBox (próximamente)
+- [TryHackMe](./TryHackMe)
+- [HackTheBox](./HTB)
 
 ## Uso
 
