@@ -3,5 +3,6 @@
   "userIgnoreFilters": [
     "README",
     "README.md"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

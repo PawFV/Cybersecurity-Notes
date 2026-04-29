@@ -1,9 +1,13 @@
 ---
-tags: [red-team, resumen, metadata, active-directory]
+tags:
+  - red-team
+  - resumen
+  - metadata
+  - active-directory
 created: 2026-04-23
 source: C:\Users\paujo\Documents\mock\data.json
 related:
-  - "[[Post Compromise/Lateral Movement and Pivoting/Moving Through the Network]]"
+  - "[[Moving Through the Network]]"
   - "[[networking/kerberos-basico]]"
   - "[[networking/ldap-y-active-directory]]"
 ---

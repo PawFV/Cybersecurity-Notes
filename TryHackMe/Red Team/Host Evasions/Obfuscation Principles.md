@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [red-team, tryhackme, room, metadata]
 created: 2026-04-23
 source: TryHackMe - Host Evasions

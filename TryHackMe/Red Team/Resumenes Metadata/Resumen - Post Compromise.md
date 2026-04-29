@@ -1,11 +1,15 @@
 ---
-tags: [red-team, resumen, metadata, post-compromise]
+tags:
+  - red-team
+  - resumen
+  - metadata
+  - post-compromise
 created: 2026-04-23
 source: C:\Users\paujo\Documents\mock\data.json
 related:
-  - "[[Post Compromise/Enumeration/Propósito]]"
-  - "[[Post Compromise/Lateral Movement and Pivoting/Moving Through the Network]]"
-  - "[[Post Compromise/Data Exfiltration/Data Exfiltration Concepts]]"
+  - "[[Propósito]]"
+  - "[[Moving Through the Network]]"
+  - "[[Data Exfiltration Concepts]]"
 ---
 
 # Resumen - Post Compromise
