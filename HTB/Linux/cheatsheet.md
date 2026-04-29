@@ -12,7 +12,7 @@ related:
   - "[[nmap-tecnicas-de-scan]]"
   - "[[iproute2-suite-ss-ip-bridge]]"
   - "[[DNS, SMB, SNMP]]"
-  - "[[HTB/Enumeration/Linux/privilege-escalation|Linux Privilege Escalation]]"
+  - "[[HTB/Linux/privilege-escalation|Linux Privilege Escalation]]"
 ---
 
 # HTB Linux Enumeration Cheatsheet
@@ -345,7 +345,7 @@ ssh -L 8080:127.0.0.1:PORT user@$IP
 
 ## Siguiente paso: privilege escalation
 
-Cuando ya tenés shell, pasá a [[HTB/Enumeration/Linux/privilege-escalation|Linux Privilege Escalation]]. Esta nota se queda enfocada en enumeración y foothold; la escalada queda separada para poder consultarla sin mezclar fases.
+Cuando ya tenés shell, pasá a [[HTB/Linux/privilege-escalation|Linux Privilege Escalation]]. Esta nota se queda enfocada en enumeración y foothold; la escalada queda separada para poder consultarla sin mezclar fases.
 
 ## Checklist de decisión
 

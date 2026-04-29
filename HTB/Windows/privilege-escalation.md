@@ -7,7 +7,7 @@ tags:
   - cheatsheet
 created: 2026-04-29
 related:
-  - "[[HTB/Enumeration/Windows/cheatsheet|Windows Enumeration]]"
+  - "[[HTB/Windows/cheatsheet|Windows Enumeration]]"
   - "[[Windows built-in tools]]"
   - "[[Windows tools adicionales]]"
 ---
@@ -272,7 +272,7 @@ C:\Windows\Temp\Seatbelt.exe -group=system
 
 ## Referencias
 
-- [[HTB/Enumeration/Windows/cheatsheet|Windows Enumeration]]
+- [[HTB/Windows/cheatsheet|Windows Enumeration]]
 - [[Windows built-in tools]]
 - [[Windows tools adicionales]]
 - LOLBAS

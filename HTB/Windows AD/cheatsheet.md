@@ -8,7 +8,7 @@ tags:
   - cheatsheet
 created: 2026-04-29
 related:
-  - "[[HTB/Enumeration/Windows AD/attacks-and-privesc|Windows AD Attacks and Privesc]]"
+  - "[[attacks-and-privesc|Windows AD Attacks and Privesc]]"
   - "[[ldap-y-active-directory]]"
   - "[[kerberos-basico]]"
   - "[[smb-cifs-y-shares-windows]]"
@@ -232,7 +232,7 @@ impacket-GetNPUsers $DOMAIN/ -usersfile users.txt -dc-ip $IP -no-pass
 impacket-GetUserSPNs $DOMAIN/$USER:$PASS -dc-ip $IP -request
 ```
 
-La explotación está en [[HTB/Enumeration/Windows AD/attacks-and-privesc|Windows AD Attacks and Privesc]].
+La explotación está en [[attacks-and-privesc|Windows AD Attacks and Privesc]].
 
 ## Checklist
 
@@ -251,7 +251,7 @@ La explotación está en [[HTB/Enumeration/Windows AD/attacks-and-privesc|Window
 
 ## Referencias
 
-- [[HTB/Enumeration/Windows AD/attacks-and-privesc|Windows AD Attacks and Privesc]]
+- [[attacks-and-privesc|Windows AD Attacks and Privesc]]
 - [[ldap-y-active-directory]]
 - [[kerberos-basico]]
 - [[smb-cifs-y-shares-windows]]

@@ -7,7 +7,7 @@ tags:
   - cheatsheet
 created: 2026-04-29
 related:
-  - "[[HTB/Enumeration/Linux/cheatsheet|Linux Enumeration]]"
+  - "[[HTB/Linux/cheatsheet|Linux Enumeration]]"
   - "[[Linux built-in tools]]"
 ---
 
@@ -301,7 +301,7 @@ chmod +x /tmp/pspy64
 
 ## Referencias
 
-- [[HTB/Enumeration/Linux/cheatsheet|Linux Enumeration]]
+- [[HTB/Linux/cheatsheet|Linux Enumeration]]
 - [[Linux built-in tools]]
 - GTFOBins
 - HackTricks Linux Privilege Escalation

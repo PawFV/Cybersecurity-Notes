@@ -7,7 +7,7 @@ tags:
   - cheatsheet
 created: 2026-04-29
 related:
-  - "[[HTB/Enumeration/Windows/privilege-escalation|Windows Privilege Escalation]]"
+  - "[[HTB/Windows/privilege-escalation|Windows Privilege Escalation]]"
   - "[[Windows built-in tools]]"
   - "[[Windows tools adicionales]]"
   - "[[smb-cifs-y-shares-windows]]"
@@ -253,11 +253,11 @@ Get-ChildItem C:\Users\*\Desktop,C:\Users\*\Documents -Force -ErrorAction Silent
 
 ## Siguiente paso
 
-Cuando ya tenés shell, pasá a [[HTB/Enumeration/Windows/privilege-escalation|Windows Privilege Escalation]].
+Cuando ya tenés shell, pasá a [[HTB/Windows/privilege-escalation|Windows Privilege Escalation]].
 
 ## Referencias
 
-- [[HTB/Enumeration/Windows/privilege-escalation|Windows Privilege Escalation]]
+- [[HTB/Windows/privilege-escalation|Windows Privilege Escalation]]
 - [[Windows built-in tools]]
 - [[Windows tools adicionales]]
 - [[smb-cifs-y-shares-windows]]

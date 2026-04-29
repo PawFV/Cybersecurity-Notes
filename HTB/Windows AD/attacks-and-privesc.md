@@ -9,7 +9,7 @@ tags:
   - cheatsheet
 created: 2026-04-29
 related:
-  - "[[HTB/Enumeration/Windows AD/cheatsheet|Windows AD Enumeration]]"
+  - "[[HTB/Windows AD/cheatsheet|Windows AD Enumeration]]"
   - "[[kerberos-basico]]"
   - "[[ldap-y-active-directory]]"
 ---
@@ -284,7 +284,7 @@ export KRB5CCNAME=Administrator.ccache
 
 ## Referencias
 
-- [[HTB/Enumeration/Windows AD/cheatsheet|Windows AD Enumeration]]
+- [[HTB/Windows AD/cheatsheet|Windows AD Enumeration]]
 - [[kerberos-basico]]
 - [[ldap-y-active-directory]]
 - BloodHound
